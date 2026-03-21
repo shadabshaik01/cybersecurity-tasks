@@ -5,21 +5,9 @@ This task focuses on identifying targets, scanning for services and vulnerabilit
 
 ## Deliverables List
 - [ ] **Nmap Scan Report**:
-  - Full TCP scan output for Metasploitable2.
-  - Identified services, versions, and OS details.
-- [ ] **OpenVAS/Nessus Report**:
-  - Exported PDF or HTML report from the vulnerability scanner.
-  - Brief analysis of the top 3 critical vulnerabilities found.
-- [ ] **GitHub Repository**:
-  - Detailed notes for all Task 2 topics.
-  - Analysis of captured FTP credentials.
-- [ ] **5-Minute Demo Video**:
-  - Showing an active Nmap scan.
-  - Explaining the findings in the vulnerability report.
-  - Demonstration of packet sniffing in Wireshark.
+ <img width="955" height="910" alt="nmap scan report" src="https://github.com/user-attachments/assets/cffb1a1b-8110-4878-8cef-0b91d994433b" />
 
-## Practical Evidence Summary
-- Successfully mapped the lab network.
-- Identified and documented service-level vulnerabilities.
-- Demonstrated mastery of basic firewall configuration.
-- Validated the risks of unencrypted communication protocols.
+
+- [ ] **5-Minute Demo Video**:
+https://drive.google.com/file/d/1vVxGiyk6RpBYr6EqtIVtRJGSd_Q-zjKQ/view?usp=drive_link
+
