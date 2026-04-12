@@ -5,9 +5,7 @@ This task covers the full exploitation lifecycle, from systematic methodology to
 
 ## Deliverables List
 - [ ] **Penetration Testing Report**:
-  - Executive summary of the assessment performed on the lab environment.
-  - Detailed findings including screenshots of successful exploitation.
-  - Risk ratings and recommended remediation steps.
+      * [📄 API Security Report](./task4/Penetration_Testing_Report.docx)
 - [ ] **GitHub Repository**:
   - Detailed notes for all Task 4 topics.
   - Documentation of Metasploit modules and John the Ripper sessions.
