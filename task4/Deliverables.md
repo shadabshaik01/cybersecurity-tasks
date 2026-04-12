@@ -5,8 +5,7 @@ This task covers the full exploitation lifecycle, from systematic methodology to
 
 ## Deliverables List
 - [ ] **Penetration Testing Report**:
-
-      * [📄Report](/task4/Penetration_Testing_Report.docx)
+     * [📄Report](/task4/Penetration_Testing_Report.docx)
 - [ ] **GitHub Repository**:
   - Detailed notes for all Task 4 topics.
   - Documentation of Metasploit modules and John the Ripper sessions.
