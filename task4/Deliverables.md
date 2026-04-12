@@ -6,13 +6,10 @@ This task covers the full exploitation lifecycle, from systematic methodology to
 ## Deliverables List
 - [ ] **Penetration Testing Report**:
      * [📄Report](/task4/Penetration_Testing_Report.docx)
-- [ ] **GitHub Repository**:
-  - Detailed notes for all Task 4 topics.
-  - Documentation of Metasploit modules and John the Ripper sessions.
+
+       
 - [ ] **10-Minute Demo Video**:
-  - Demonstration of a successful Metasploit exploit.
-  - Brief walkthrough of the password cracking process.
-  - Explanation of the hardening steps taken to secure the system.
+  - https://drive.google.com/file/d/1svJRZZE-mTpLEwFSWAtUTKsyqRHIrwli/view?usp=sharing
 
 ## Practical Evidence Summary
 - Successfully executed a full penetration testing lifecycle.
