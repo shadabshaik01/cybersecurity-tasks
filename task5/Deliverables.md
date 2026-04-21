@@ -5,8 +5,7 @@ This final task involves the execution of the capstone project, an incident resp
 
 ## Deliverables List
 - [ ] **Capstone Report PDF**:
-  - Comprehensive report covering the entire penetration test of DVWA.
-  - Includes executive summary, technical details, and mitigations.
+  - [📄Report](./TASK_5_PROJECT-Report.docx)
 - [ ] **12-Minute Presentation Video**:
   - https://drive.google.com/file/d/10WyGeGWfm_GpQYUhCt-f-h9Ko94GCZph/view?usp=sharing
 
