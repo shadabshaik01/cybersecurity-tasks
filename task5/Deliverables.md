@@ -7,16 +7,8 @@ This final task involves the execution of the capstone project, an incident resp
 - [ ] **Capstone Report PDF**:
   - Comprehensive report covering the entire penetration test of DVWA.
   - Includes executive summary, technical details, and mitigations.
-- [ ] **GitHub Repository**:
-  - Finalized notes for all Task 5 topics.
-  - Organized structure with all previous tasks' documentation.
 - [ ] **12-Minute Presentation Video**:
-  - Full walkthrough of the internship journey.
-  - In-depth look at the capstone project findings.
-  - Professional presentation style.
-- [ ] **Final Submission Links**:
-  - GitHub repo URL.
-  - LinkedIn project post (optional).
+  - https://drive.google.com/file/d/10WyGeGWfm_GpQYUhCt-f-h9Ko94GCZph/view?usp=sharing
 
 ## Practical Evidence Summary
 - Successfully integrated skills from all modules into a single, cohesive project.
